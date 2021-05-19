@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  rh-spring-boot-helm-chart:
+  - apiVersion: v1
+    created: "2021-05-19T10:50:27.973683+10:00"
+    description: Spring Boot application with service and optional route
+    digest: ca99802291b069e07d0df4d937ec422bb77a9ff6785db15d6e7f11c68632daf6
+    name: rh-spring-boot-helm-chart
+    urls:
+    - springboot/rh-spring-boot-helm-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-05-19T10:50:27.969167+10:00"
